@@ -1,5 +1,5 @@
 global:
-  language: "KO"
+  language: "🌐︎"
 
 article:
   anchor_label: "앵커"
@@ -41,7 +41,7 @@ error:
 footer:
   dark_appearance: "다크 모드로 전환"
   light_appearance: "라이트 모드로 전환"
-  powered_by: "{{ .Hugo }} &amp; {{ .Theme }} 로 제공됨"
+  powered_by: "minhun@bloodmoon.co.kr"
 
 list:
   externalurl_title: "외부 사이트로 링크"
@@ -58,14 +58,14 @@ search:
 
 sharing:
   email: "이메일로 전송"
-  facebook: "Facebook에서 공유"
-  linkedin: "LinkedIn에서 공유"
+  facebook: "Facebook에 공유"
+  linkedin: "LinkedIn에 공유"
   pinterest: "Pinterest에 고정"
   reddit: "Reddit에 게시"
   twitter: "Twitter에 트윗"
 
 shortcode:
-  recent_articles: "최근 글"
+  recent_articles: "새소식"
 
 recent:
-  show_more: "더 보기"
+  show_more: "더보기"
